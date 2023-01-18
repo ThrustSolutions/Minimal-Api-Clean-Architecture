@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmcNRMNKrEzphDBH58BwaV2B9r6CtuewnWrDjfUFSqWYwxJvpGQdt7iYBv7pLF/Us58xkbkO81Dfil4asnLqeg==",
+  "success": true,
+  "projectFilePath": "D:\\Projecten\\Code-Template\\WeatherApiClean\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WebThrust-GM\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\WebThrust-GM\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

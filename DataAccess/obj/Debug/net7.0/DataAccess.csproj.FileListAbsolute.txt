@@ -1,0 +1,17 @@
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\bin\Debug\net7.0\Application.dll
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\bin\Debug\net7.0\Domain.dll
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\bin\Debug\net7.0\Application.pdb
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\bin\Debug\net7.0\Domain.pdb
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\Projecten\Code-Template\WeatherApiClean\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

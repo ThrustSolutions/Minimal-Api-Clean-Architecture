@@ -1,0 +1,15 @@
+D:\Projecten\Code-Template\WeatherApiClean\Application\bin\Debug\net7.0\Application.deps.json
+D:\Projecten\Code-Template\WeatherApiClean\Application\bin\Debug\net7.0\Application.dll
+D:\Projecten\Code-Template\WeatherApiClean\Application\bin\Debug\net7.0\Application.pdb
+D:\Projecten\Code-Template\WeatherApiClean\Application\bin\Debug\net7.0\Domain.dll
+D:\Projecten\Code-Template\WeatherApiClean\Application\bin\Debug\net7.0\Domain.pdb
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.dll
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\Application.pdb
+D:\Projecten\Code-Template\WeatherApiClean\Application\obj\Debug\net7.0\ref\Application.dll
